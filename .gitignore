@@ -1,3 +1,22 @@
 nimcache/
 nimblecache/
 htmldocs/
+
+# Emulator Stuff
+*.elf
+*.gba
+*.sav
+
+# Local Development Stuff
+private/
+src/audio/generated/
+src/audio/data
+src/audio/soundbank_tool
+src/audio/strollaway.xm
+
+*.vscode
+*.DS_Store
+*.bak
+*.map
+*.s
+*.h

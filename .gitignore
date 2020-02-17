@@ -13,6 +13,7 @@ src/audio/generated/
 src/audio/data
 src/audio/soundbank_tool
 src/audio/strollaway.xm
+JAS/
 
 *.vscode
 *.DS_Store

@@ -1,8 +1,7 @@
 # Main is the main file, of course.
-
 import natu
 
-import modules/sprite
+# import modules/sprite
 
 # const cbb = 0
 # const sbb = 2
@@ -13,7 +12,7 @@ proc main() =
     irqInit()
     irqEnable(II_VBLANK)
 
-    sprite.PlayerSpriteHandler()
+    # sprite.PlayerSpriteHandler()
 
 when isMainModule:
     main()

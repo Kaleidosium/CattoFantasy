@@ -1,7 +1,7 @@
 import os except existsDir
 import strformat
 
-const name = "CattoCookie"
+const name = "CattoFantasy"
 const main = "./src/main.nim"
 
 doAssert(existsEnv("DEVKITARM"), "Please set DEVKITARM in your environment.")

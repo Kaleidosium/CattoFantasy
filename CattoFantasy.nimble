@@ -1,7 +1,7 @@
 # Package
 version       = "0.1.0"
 author        = "Dania Rifki"
-description   = "Catto's Fantasy. A GBA Game written in Nim starring my cat."
+description   = "Catto's Fantasy. A fantasy action-adventure GBA game written in Nim starring my cat."
 license       = "MIT"
 srcDir        = "source"
 bin           = @["CattoFantasy"]
